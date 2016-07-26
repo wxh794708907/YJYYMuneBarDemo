@@ -1,7 +1,5 @@
-# CMuneBarDemo
-
-近期在学习动画，为了巩固，写了这一个demo和大家分享
-用法很简单：
+# YJYYMuneBarDemo
+下面是原demo的用法，我在原demo的基础上增加了左右两侧都可以展开的效果
 
 1.导入头文件 
 
