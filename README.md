@@ -1,6 +1,6 @@
 # YJYYMuneBarDemo
 下面是原demo的用法，我在原demo的基础上增加了左右两侧都可以展开的效果
-
+对应博客地址:http://www.jianshu.com/p/41d27463c3ef
 1.导入头文件 
 
 `#import "CMuneBar.h"`
